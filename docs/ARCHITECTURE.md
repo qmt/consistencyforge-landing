@@ -17,7 +17,8 @@ landing/
 ├── index.html          # Single-page HTML (all 8 sections)
 ├── styles.css          # All styles + responsive breakpoints
 ├── script.js           # GSAP animations, particles, cursor, interactions
-├── save-email.php      # Legacy email signup backend (not used in current version)
+├── favicon.svg         # SVG favicon (chain+CF, white on black)
+├── logo.svg            # SVG logo (chain+CF, transparent background)
 ├── img/
 │   ├── icon-checkin.png
 │   ├── icon-contract.png
